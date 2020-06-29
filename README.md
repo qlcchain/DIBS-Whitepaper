@@ -14,40 +14,62 @@ The above methodology is used by DIBS to create a framework for hosting DApps th
 ## Table of contents
 ### 1 Introduction
 1.1 Blockchain, decentralized applications, and software as a service
+
 1.2 How HTTPS and VPN will be incorporated
+
 1.3 Blockchain and Remote Authentication
+
 1.4 The Authentication, Authorization, and Access (AAA) Framework
+
 1.5 Software Development Kits
+
 1.6 The DIBS full life cycle applied to applications
 
 ### 2 System Overview
 2.1 Blockchain Ledgers and P2P
+
 2.2 The P2P Network and Application Access
+
 2.3 Nodes in the DIBS decentralized network solution
 
 ### 3 The DIBS Architecture
 3.1 Block Chain and Blockchain Nodes
+
 3.2 Authentication, Authorization, and Access through Blockchain
+
 3.3 DIBS through Blockchain processes
+
 3.4 The P2P network with VMPLS
+
 3.5 Peer-to-Peer Network for Enterprise
+
 3.6 DIBS Virtual Private Network (VPN) Support
+
 3.7 VPNs built on top of P2P connection
 
 ### 4 Building Virtual Private Network’s for organizations
 ### 5 Embedded devices on QLC Chain Node
 5.1 Four Modules of DIBS-enabled VPN network built on QLC Chain Node
+
 5.2 P2P Layer
+
 5.3 VPN Module
+
 5.4 Blockchain ledger
+
 5.5 Universal DIBS VPN Controller
 
 ### 6 Use Cases
 6.1 DIBS for private network and traffic management
+
 6.2 Additional layer for network identity management
+
 6.3 Cloudless P2P communication and Virtual Data Storage
+
 6.4 Security using NETWORK DIBS via smart contracts
+
 6.5 Replace Google login, with a new universal login for users
+
 6.6 Telecom industry
 
 ### Conclusion
